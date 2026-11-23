@@ -1,0 +1,14 @@
+# ModelSim/Questa transient files
+work/
+transcript
+*.wlf
+*.vcd
+*.vstf
+*.bak
+*.swp
+*.tmp
+modelsim.ini
+*.mpf
+# Common temporary/editor outputs
+.DS_Store
+Thumbs.db
